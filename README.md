@@ -1,14 +1,14 @@
 <h1 align="center">Hola 👋, soy Enderson Marín</h1>
 <h3 align="center">Full Stack Developer / Tecnólogo en Informática</h3>
 
+  <img src="https://media-exp1.licdn.com/dms/image/C4D16AQGfP8Aw5oVmPw/profile-displaybackgroundimage-shrink_200_800/0/1649711782061?e=1670457600&v=beta&t=xl-_tJvMBOmcwcNH-wLemib6gU7w8yEYn_MLPDTEtm8" alt="Enderson Marin LinkedIn Profile" width="100%" align="center">   
 
 - 📫 Mi correo: **marinenderson1@gmail.com**
 
-<p align="left">
-<a href="https://linkedin.com/in/enderson-marin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enderson-marin" height="30" width="40" /></a>
-</p>
+- 👨‍💻 Mi LinkedIn: https://www.linkedin.com/in/enderson-marin/
 
 - 👨‍💻 Mi portafolio personal: [https://portafolio-react-enderson-marin.vercel.app/](https://portafolio-react-enderson-marin.vercel.app/)
+
 
 
 <h3 align="left">Mis Tecnologías y Herramientas:</h3>
