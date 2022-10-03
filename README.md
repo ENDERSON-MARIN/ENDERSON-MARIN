@@ -35,7 +35,7 @@ JavaScript, React, Redux; Bases de datos: PostgreSQL, Sequelize. Deploy: Heroku-
 </p>
 
 
-#### SIGPEX - Sistema de Gestión para Publicidad Exterior - Hecas Publicidad Exterior
+#### SIGPEX - Sistema de Gestión para Publicidad Exterior - Hercas Publicidad Exterior
 
   - ● Desarrollo de sistema CRM Y ERP para el manejo interno de la compañía, con los módulos de
 clientes, inventario, cotizaciones, ordenes de producción, vallas, impresiones, facturación.
