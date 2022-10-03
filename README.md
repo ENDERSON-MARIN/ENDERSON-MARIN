@@ -18,7 +18,7 @@ categorías, auth, catálogo, checkout, carrito de compras, órdenes de producto
 de emails, chatbox, botón de WhatsApp, descuentos de productos, calificación de compras.)
 <p align='center'>     
    <a align='center' href="https://tuspacio.vercel.app/">
-      <img src="" alt="TuSpacio"   width="50%">  
+      <img src="https://user-images.githubusercontent.com/46828206/193687174-fb9ade3a-d9b9-4634-b3e8-03bd903eeb5b.png" alt="TuSpacio"   width="50%">  
     </a>
 </p>
 
@@ -30,7 +30,7 @@ paginación, creación, edición y eliminación de datos, favoritos, localstorag
 JavaScript, React, Redux; Bases de datos: PostgreSQL, Sequelize. Deploy: Heroku-Vercel
 <p align='center'>     
    <a align='center' href="https://dogs-app-enderson-marin.vercel.app/">
-      <img src="" alt="dogsApp"   width="50%">  
+      <img src="https://user-images.githubusercontent.com/46828206/193687481-ffd15bc4-3ce9-4894-8297-b12efa219ba0.png" alt="dogsApp"   width="50%">  
     </a>
 </p>
 
@@ -43,7 +43,7 @@ clientes, inventario, cotizaciones, ordenes de producción, vallas, impresiones,
 JavaScript, jQuery, Ajax, Blade; Bases de datos: MySQL. Deploy: Hostinger.
 <p align='center'>     
    <a align='center' href="https://www.hercascrm.co/sigpex/public/admin/login">
-      <img src="" alt="sigpex"   width="50%">  
+      <img src="https://user-images.githubusercontent.com/46828206/193687615-6515267a-43b9-44b3-9a57-4845fa2e669d.png" alt="sigpex"   width="50%">  
     </a>
 </p>
 
