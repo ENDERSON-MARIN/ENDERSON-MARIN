@@ -31,7 +31,7 @@ categorías, auth, catálogo, checkout, carrito de compras, órdenes de producto
 de emails, chatbox, botón de WhatsApp, descuentos de productos, calificación de compras.)
 <p align='center'>     
    <a align='center' href="https://tuspacio.vercel.app/">
-      <img src="https://user-images.githubusercontent.com/46828206/193687174-fb9ade3a-d9b9-4634-b3e8-03bd903eeb5b.png" alt="TuSpacio"   width="50%">  
+      <img src="https://user-images.githubusercontent.com/46828206/193687174-fb9ade3a-d9b9-4634-b3e8-03bd903eeb5b.png" alt="TuSpacio"   width="100%">  
     </a>
 </p>
 
@@ -43,7 +43,7 @@ paginación, creación, edición y eliminación de datos, favoritos, localstorag
 JavaScript, React, Redux; Bases de datos: PostgreSQL, Sequelize. Deploy: Heroku-Vercel
 <p align='center'>     
    <a align='center' href="https://dogs-app-enderson-marin.vercel.app/">
-      <img src="https://user-images.githubusercontent.com/46828206/193687481-ffd15bc4-3ce9-4894-8297-b12efa219ba0.png" alt="dogsApp"   width="50%">  
+      <img src="https://user-images.githubusercontent.com/46828206/193687481-ffd15bc4-3ce9-4894-8297-b12efa219ba0.png" alt="dogsApp"   width="100%">  
     </a>
 </p>
 
@@ -54,9 +54,25 @@ JavaScript, React, Redux; Bases de datos: PostgreSQL, Sequelize. Deploy: Heroku-
 clientes, inventario, cotizaciones, ordenes de producción, vallas, impresiones, facturación.
   - ● Desarrollar el sistema usando para el backend: PHP, Laravel; para el frontend: Html, Css,
 JavaScript, jQuery, Ajax, Blade; Bases de datos: MySQL. Deploy: Hostinger.
+   - ● Incrementar en un 40% de las ventas de productos y servicios con la presencia online del negocio mediante el sitio web y mejor control y organización de los procesos internos y ahorro de insumos.
 <p align='center'>     
    <a align='center' href="https://www.hercascrm.co/sigpex/public/admin/login">
-      <img src="https://user-images.githubusercontent.com/46828206/193687615-6515267a-43b9-44b3-9a57-4845fa2e669d.png" alt="sigpex"   width="50%">  
+      <img src="https://user-images.githubusercontent.com/46828206/193687615-6515267a-43b9-44b3-9a57-4845fa2e669d.png" alt="sigpex"   width="100%">  
+    </a>
+</p>
+
+---
+
+
+#### KprichosNails.store - Sitio web tipo Ecommerce- Salón de belleza Kprichos Nails
+
+  - ● Sitio web para el salón de belleza KprichosNails donde se incluyen las páginas de cursos, servicios, galería, blog, conócenos, contacto y además 
+      todas las funcionalidades de tienda online, gestion de usuarios, productos, categorías, carrito de conpras, autenticación, envíos, estadisticas,        agendamiento de citas para los diferentes servicios de belleza.
+  - ● Desarrollar el sitio web usando las siguientes tecnologías: PHP, Wordpress, Elementor Pro, WooCommerce, Html, css. Bases de datos: MySQL. Deploy: Hostinger.
+   - ● Incrementar en un 30% de las ventas de productos y servicios con la presencia online del negocio mediante el sitio web.
+<p align='center'>     
+   <a align='center' href="http://kprichosnails.store/">
+      <img src="https://user-images.githubusercontent.com/46828206/193739656-43d5a939-5b3e-4c08-a9a9-cfe795e4325e.png" alt="KprichosNails"   width="100%">  
     </a>
 </p>
 
