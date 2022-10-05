@@ -5,8 +5,7 @@
   
 ### - 👨‍💻: Acerca de mi:
 
-Soy Tecnólogo en Informática con 10 semestres aprobados en la ingeniería, cuento con más de 10 años de
-experiencia en soporte técnico de equipos computacionales y más de 3 años como Desarrollador Full Stack Web y Base de Datos.
+Soy Tecnólogo en Informática con 10 semestres aprobados en la ingeniería, cuento con más más de 3 años como Desarrollador Full Stack Web y Base de Datos y con más de 10 años de experiencia en soporte técnico de equipos computacionales y manejo de incidencias tanto en sitio como remoto.
 
 Desde mis inicios en la universidad con tecnologías Html, Css, Javascript y  MySQL. realizando proyectos Educativos, luego trabajando como Freelancer realizando sitios web para diferentes clientes. Estudiando autodidacta tecnologías como Laravel, Angular, Bootstrap, Figma, Scrum, Git y  Github, Typescript, entre otras con certificación en Udemy. Desde inicios del 2022 estudiando tecnologías más avanzadas en la Academia Henry como React, Redux, Nodejs, Express,  PostgreSQL, Sequelize,  
 
