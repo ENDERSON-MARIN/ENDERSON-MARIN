@@ -5,13 +5,11 @@
   
 ### - 👨‍💻: Acerca de mi:
 
-Soy Tecnólogo en Informática a punto de culminar la ingeniería, cuento con más más de 3 años como Desarrollador Full Stack Web y Base de Datos y con más de 10 años de experiencia en soporte técnico de equipos computacionales y manejo de incidencias tanto en sitio como remoto.
+Soy Tecnólogo en Informática a punto de culminar la ingeniería, cuento con más más de 3 años como Desarrollador Full Stack Web y Base de Datos y con más de 10 años de experiencia en soporte técnico de equipos computacionales y manejo de incidencias tanto en sitio como remoto. Sistemas operativos Windows y Linux, administración de redes, paquete de ofimática, instalación de cámaras CCTV.
 
-Desde mis inicios en la universidad con tecnologías Html, Css, Javascript y  MySQL. realizando proyectos Educativos, luego trabajando como Freelancer realizando sitios web para diferentes clientes. Estudiando autodidacta tecnologías como Laravel, Angular, Bootstrap, Figma, Scrum, Git y  Github, Typescript, entre otras con certificaciones. Desde inicios del 2022 estudiando tecnologías más avanzadas en la Academia Henry como React, Redux, Nodejs, Express,  PostgreSQL, Sequelize.  
+Desde mis inicios en la universidad con tecnologías Html, Css, Javascript, PHP, MySQL. realizando proyectos Educativos, luego trabajando como Freelancer realizando sitios web para diferentes clientes. Estudiando autodidacta tecnologías como Laravel, Typescript, Angular, Bootstrap, Figma, Scrum, Git, Github, MongoDB. Desde inicios del 2022 estudiando tecnologías más avanzadas en la Academia Henry como React, Redux, Nodejs, Express,  PostgreSQL, Sequelize, MaterialUI.
 
-Soy un apasionado de la programación, el deporte y compartir con mi familia. Muy dispuesto a incorporar nuevas habilidades y enfrentar nuevos retos de resolución de problemas, trabajo en equipo, pensamiento creativo, comunicación y autonomía para crecer tanto personal como profesionalmente.
-
-En busca de una oportunidad de demostrar mi talento como desarrollador Backend, Frontend o Fullstack para así contribuir con el logro de objetivos  tanto de las empresas como personales.
+Soy un apasionado de la programación, el deporte y compartir con mi familia. Muy dispuesto a incorporar nuevas habilidades y enfrentar nuevos retos de resolución de problemas, trabajo en equipo, pensamiento creativo, comunicación y autonomía para crecer tanto personal como profesionalmente, logrando cumplimiento de objetivos.
 
 <br/>  
 
