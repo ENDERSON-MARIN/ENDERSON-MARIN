@@ -61,15 +61,15 @@ JavaScript, jQuery, Ajax, Blade; Bases de datos: MySQL. Deploy: Hostinger.
 ---
 
 
-#### KprichosNails.store - Sitio web tipo Ecommerce- Salón de belleza Kprichos Nails
+#### TalishaNails.art - Sitio web tipo Ecommerce- Salón de belleza Kprichos Nails
 
   - ● Sitio web para el salón de belleza KprichosNails donde se incluyen las páginas de cursos, servicios, galería, blog, conócenos, contacto y además 
       todas las funcionalidades de tienda online, gestion de usuarios, productos, categorías, carrito de compras, autenticación, envíos, estadisticas,        agendamiento de citas para los diferentes servicios de belleza.
   - ● Desarrollar el sitio web usando las siguientes tecnologías: PHP, Wordpress, Elementor Pro, WooCommerce, Html, css. Bases de datos: MySQL. Deploy: Hostinger.
    - ● Incrementar en un 30% de las ventas de productos y servicios con la presencia online del negocio mediante el sitio web.
 <p align='center'>     
-   <a align='center' href="http://kprichosnails.store/">
-      <img src="https://user-images.githubusercontent.com/46828206/193739656-43d5a939-5b3e-4c08-a9a9-cfe795e4325e.png" alt="KprichosNails"   width="50%">  
+   <a align='center' href="https://talishanails.art/">
+      <img src="https://user-images.githubusercontent.com/46828206/193739656-43d5a939-5b3e-4c08-a9a9-cfe795e4325e.png" alt="TalishaNails"   width="50%">  
     </a>
 </p>
 
