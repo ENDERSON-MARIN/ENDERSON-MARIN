@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Enderson Marín</h1>
 <h3 align="center">Full Stack Developer / Tecnólogo en Informática</h3>
 
-  <img src="https://media-exp1.licdn.com/dms/image/C4D16AQGfP8Aw5oVmPw/profile-displaybackgroundimage-shrink_200_800/0/1649711782061?e=1670457600&v=beta&t=xl-_tJvMBOmcwcNH-wLemib6gU7w8yEYn_MLPDTEtm8" alt="Enderson Marin LinkedIn Profile" width="100%" align="center">  
+  <img src="https://media.licdn.com/dms/image/C4D16AQGfP8Aw5oVmPw/profile-displaybackgroundimage-shrink_350_1400/0/1649711782061?e=1696464000&v=beta&t=se2JfceB8Sb0guKk4GRhmRuxqvOXSHZmQZ2F_VqCLrw" alt="Enderson Marin LinkedIn Profile" width="100%" align="center">  
   
 ### - 👨‍💻: Acerca de mi:
 
