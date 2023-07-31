@@ -27,7 +27,7 @@ siguientes features: Features básicas de e-commerce (landing page, home, admin 
 categorías, auth, catálogo, checkout, carrito de compras, órdenes de productos, pasarela de pago, envío
 de emails, chatbox, botón de WhatsApp, descuentos de productos, calificación de compras.)
 <p align='center'>     
-   <a align='center' href="https://tuspacio.vercel.app/">
+   <a align='center' href="https://tuspacio.vercel.app/" target="_blank">
       <img src="https://user-images.githubusercontent.com/46828206/193687174-fb9ade3a-d9b9-4634-b3e8-03bd903eeb5b.png" alt="TuSpacio"   width="50%">  
     </a>
 </p>
@@ -39,7 +39,7 @@ paginación, creación, edición y eliminación de datos, favoritos, localstorag
   - ● Desarrollar la app usando para el backend: Nodejs, express; para el frontend: Html, Css,
 JavaScript, React, Redux; Bases de datos: PostgreSQL, Sequelize. Deploy: Heroku-Vercel
 <p align='center'>     
-   <a align='center' href="https://dogs-app-enderson-marin.vercel.app/">
+   <a align='center' href="https://dogs-app-enderson-marin.vercel.app/" target="_blank">
       <img src="https://user-images.githubusercontent.com/46828206/193687481-ffd15bc4-3ce9-4894-8297-b12efa219ba0.png" alt="dogsApp"   width="50%">  
     </a>
 </p>
@@ -53,7 +53,7 @@ clientes, inventario, cotizaciones, ordenes de producción, vallas, impresiones,
 JavaScript, jQuery, Ajax, Blade; Bases de datos: MySQL. Deploy: Hostinger.
    - ● Incrementar en un 40% de las ventas de productos y servicios con la presencia online del negocio mediante el sitio web y mejor control y organización de los procesos internos y ahorro de insumos.
 <p align='center'>     
-   <a align='center' href="https://www.hercascrm.co/sigpex/public/admin/login">
+   <a align='center' href="https://www.hercascrm.co/sigpex/public/admin/login" target="_blank">
       <img src="https://user-images.githubusercontent.com/46828206/193687615-6515267a-43b9-44b3-9a57-4845fa2e669d.png" alt="sigpex"   width="50%">  
     </a>
 </p>
@@ -68,7 +68,7 @@ JavaScript, jQuery, Ajax, Blade; Bases de datos: MySQL. Deploy: Hostinger.
   - ● Desarrollar el sitio web usando las siguientes tecnologías: PHP, Wordpress, Elementor Pro, WooCommerce, Html, css. Bases de datos: MySQL. Deploy: Hostinger.
    - ● Incrementar en un 30% de las ventas de productos y servicios con la presencia online del negocio mediante el sitio web.
 <p align='center'>     
-   <a align='center' href="https://talishanails.art/">
+   <a align='center' href="https://talishanails.art/" target="_blank">
       <img src="https://user-images.githubusercontent.com/46828206/193739656-43d5a939-5b3e-4c08-a9a9-cfe795e4325e.png" alt="TalishaNails"   width="50%">  
     </a>
 </p>
