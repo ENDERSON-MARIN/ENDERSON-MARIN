@@ -27,7 +27,7 @@ siguientes features: Features básicas de e-commerce (landing page, home, admin 
 categorías, auth, catálogo, checkout, carrito de compras, órdenes de productos, pasarela de pago, envío
 de emails, chatbox, botón de WhatsApp, descuentos de productos, calificación de compras.)
 <p align='center'>     
-   <a align='center' href="https://tuspacio.vercel.app/" target="_blank">
+   <a align='center' href="https://tuspacio-enderson-marin.vercel.app/" target="_blank">
       <img src="https://user-images.githubusercontent.com/46828206/193687174-fb9ade3a-d9b9-4634-b3e8-03bd903eeb5b.png" alt="TuSpacio"   width="50%">  
     </a>
 </p>
@@ -39,7 +39,7 @@ paginación, creación, edición y eliminación de datos, favoritos, localstorag
   - ● Desarrollar la app usando para el backend: Nodejs, express; para el frontend: Html, Css,
 JavaScript, React, Redux; Bases de datos: PostgreSQL, Sequelize. Deploy: Heroku-Vercel
 <p align='center'>     
-   <a align='center' href="https://dogs-app-enderson-marin.vercel.app/" target="_blank">
+   <a align='center' href="https://pets-app-enderson-marin.vercel.app/" target="_blank">
       <img src="https://user-images.githubusercontent.com/46828206/193687481-ffd15bc4-3ce9-4894-8297-b12efa219ba0.png" alt="dogsApp"   width="50%">  
     </a>
 </p>
