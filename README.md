@@ -13,9 +13,25 @@ I am a Full Stack Web Developer about to complete my computer engineering degree
   ******
 ### - :computer: My recent projects:
 
+#### Medellín Participa - Web site
+
+- ● SQL database manager.
+- ● Development of the platform in a web environment Medellín participates, both in the back-end
+   and front-end, with the microservices modality.
+- ● Join the DevOps team, deploying the platform in the production environment.-Join the testing team to verify the proper functioning of the software and train employees
+   end users.
+- ● Execute documentation and user manuals for each platform module.
+<p align='center'>     
+   <a align='center' href="https://www.medellin.gov.co/es/" target="_blank">
+      <img src="https://user-images.githubusercontent.com/46828206/193687615-6515267a-43b9-44b3-9a57-4845fa2e669d.png" alt="Medellin Web Site"   width="50%">  
+    </a>
+</p>
+
+---
+
 #### Tu Spacio - Web site Ecommerce
 
-  - Participation in an agile development team with one-week sprints introducing a Product Owner
+- ● Participation in an agile development team with one-week sprints introducing a Product Owner
 progress on the development of a complete E-commerce app with design and development of the
 following features: Basic e-commerce features (landing page, home, product admin,
 categories, auth, catalog, checkout, shopping cart, product orders, payment gateway, shipping
@@ -32,9 +48,9 @@ of emails, chatbox, WhatsApp button, product discounts, purchase ratings.)
 
 - ● Development of CRM and ERP system for the internal management of the company, with the modules
 clients, inventory, quotes, production orders, billboards, impressions, invoicing.
-  - ● Develop the system using for the backend: PHP, Laravel; for the frontend: Html, CSS,
+- ● Develop the system using for the backend: PHP, Laravel; for the frontend: Html, CSS,
 JavaScript, jQuery, Ajax, Blade; Databases: MySQL. Deploy: Hostinger.
-   - ● Increase sales of products and services by 40% with the online presence of the business through the website and better control and organization of internal processes and savings in supplies.
+- ● Increase sales of products and services by 40% with the online presence of the business through the website and better control and organization of internal processes and savings in supplies.
 <p align='center'>     
    <a align='center' href="https://www.hercascrm.co/sigpex/public/admin/login" target="_blank">
       <img src="https://user-images.githubusercontent.com/46828206/193687615-6515267a-43b9-44b3-9a57-4845fa2e669d.png" alt="sigpex"   width="50%">  
@@ -48,7 +64,7 @@ JavaScript, jQuery, Ajax, Blade; Databases: MySQL. Deploy: Hostinger.
   - ● Website for the KprichosNails beauty salon which includes the pages of courses, services, gallery, blog, get to know us, contact and also 
       all online store functionalities, user management, products, categories, shopping cart, authentication, shipping, statistics, appointment scheduling for different beauty services.
   - ● Develop the website using the following technologies: PHP, Wordpress, Elementor Pro, WooCommerce, Html, css. Databases: MySQL. Deploy: Hostinger.
-   - ● Increase sales of products and services by 50% with the online presence of the business through the website.
+  - ● Increase sales of products and services by 50% with the online presence of the business through the website.
 <p align='center'>     
    <a align='center' href="https://talishanails.art/" target="_blank">
       <img src="https://user-images.githubusercontent.com/46828206/193739656-43d5a939-5b3e-4c08-a9a9-cfe795e4325e.png" alt="TalishaNails"   width="50%">  
