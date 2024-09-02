@@ -23,7 +23,7 @@ I am a Full Stack Web Developer about to complete my computer engineering degree
 - ● Execute documentation and user manuals for each platform module.
 <p align='center'>     
    <a align='center' href="https://www.medellin.gov.co/es/" target="_blank">
-      <img src="https://user-images.githubusercontent.com/46828206/193687615-6515267a-43b9-44b3-9a57-4845fa2e669d.png" alt="Medellin Web Site"   width="50%">  
+      <img src="https://raw.githubusercontent.com/ENDERSON-MARIN/SIGPEX/fba829160501f6ef8de013aa69957234fb0bf16b/medellin_participa%20(1)%20(1).png?token=ALFIVLUL3NLPYI7IDZ6WKPDG2ULHW" alt="Medellin Web Site"   width="50%">  
     </a>
 </p>
 
@@ -44,6 +44,20 @@ of emails, chatbox, WhatsApp button, product discounts, purchase ratings.)
 
 ---
 
+#### TalishaNails.art - Web site Ecommerce - Kprichos Nails Beauty Salon
+
+  - ● Website for the KprichosNails beauty salon which includes the pages of courses, services, gallery, blog, get to know us, contact and also 
+      all online store functionalities, user management, products, categories, shopping cart, authentication, shipping, statistics, appointment scheduling for different beauty services.
+  - ● Develop the website using the following technologies: PHP, Wordpress, Elementor Pro, WooCommerce, Html, css. Databases: MySQL. Deploy: Hostinger.
+  - ● Increase sales of products and services by 50% with the online presence of the business through the website.
+<p align='center'>     
+   <a align='center' href="https://talishanails.art/" target="_blank">
+      <img src="https://user-images.githubusercontent.com/46828206/193739656-43d5a939-5b3e-4c08-a9a9-cfe795e4325e.png" alt="TalishaNails"   width="50%">  
+    </a>
+</p>
+
+---
+
 #### SIGPEX - Outdoor Advertising Management System - Hercas Publicidad Exterior
 
 - ● Development of CRM and ERP system for the internal management of the company, with the modules
@@ -54,20 +68,6 @@ JavaScript, jQuery, Ajax, Blade; Databases: MySQL. Deploy: Hostinger.
 <p align='center'>     
    <a align='center' href="https://www.hercascrm.co/sigpex/public/admin/login" target="_blank">
       <img src="https://user-images.githubusercontent.com/46828206/193687615-6515267a-43b9-44b3-9a57-4845fa2e669d.png" alt="sigpex"   width="50%">  
-    </a>
-</p>
-
----
-
-#### TalishaNails.art - Web site Ecommerce - Kprichos Nails Beauty Salon
-
-  - ● Website for the KprichosNails beauty salon which includes the pages of courses, services, gallery, blog, get to know us, contact and also 
-      all online store functionalities, user management, products, categories, shopping cart, authentication, shipping, statistics, appointment scheduling for different beauty services.
-  - ● Develop the website using the following technologies: PHP, Wordpress, Elementor Pro, WooCommerce, Html, css. Databases: MySQL. Deploy: Hostinger.
-  - ● Increase sales of products and services by 50% with the online presence of the business through the website.
-<p align='center'>     
-   <a align='center' href="https://talishanails.art/" target="_blank">
-      <img src="https://user-images.githubusercontent.com/46828206/193739656-43d5a939-5b3e-4c08-a9a9-cfe795e4325e.png" alt="TalishaNails"   width="50%">  
     </a>
 </p>
 
