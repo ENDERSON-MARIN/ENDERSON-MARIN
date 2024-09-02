@@ -23,7 +23,7 @@ I am a Full Stack Web Developer about to complete my computer engineering degree
 - ● Execute documentation and user manuals for each platform module.
 <p align='center'>     
    <a align='center' href="https://www.medellin.gov.co/es/" target="_blank">
-      <img src="https://raw.githubusercontent.com/ENDERSON-MARIN/SIGPEX/fba829160501f6ef8de013aa69957234fb0bf16b/medellin_participa%20(1)%20(1).png?token=ALFIVLQ2HY3YJX7HQSTT2DDG2UNZ6" alt="Medellin Web Site"   width="50%">  
+      <img src="https://raw.githubusercontent.com/ENDERSON-MARIN/SIGPEX/fba829160501f6ef8de013aa69957234fb0bf16b/medellin_participa%20(1)%20(1).png?token=ALFIVLXI6OIT7N5FBEIRXY3G2UPFK" alt="Medellin Web Site"   width="50%">  
     </a>
 </p>
 
@@ -37,7 +37,7 @@ following sections or components: about, contact, experience, footer, header, na
 - ● Deploy: vercel.com whit continuous integration - github.
 <p align='center'>     
    <a align='center' href="https://portfolio-ecmm.vercel.app/" target="_blank">
-      <img src="https://raw.githubusercontent.com/ENDERSON-MARIN/PORTAFOLIO_REACT/31fc6b89a2d4a8dd74119e661e3296a4ccb9e205/portfolio_enderson.png?token=ALFIVLVSZZP6ZZG5ADOOYGDG2UNUA" alt="Portfolio Web Site"   width="50%">  
+      <img src="https://raw.githubusercontent.com/ENDERSON-MARIN/PORTAFOLIO_REACT/31fc6b89a2d4a8dd74119e661e3296a4ccb9e205/portfolio_enderson.png?token=ALFIVLVGFTUBUWEHO2PKF6LG2UPCU" alt="Portfolio Web Site"   width="50%">  
     </a>
 </p>
 
