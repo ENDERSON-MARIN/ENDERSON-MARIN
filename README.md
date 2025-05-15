@@ -76,60 +76,11 @@ Sou formado como Tecnólogo Universitário em Informática com mais de 10 anos d
 
 <div align='center' style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1;">
-    <img alt="Enderson Marin GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ENDERSON-MARIN&show_icons=true&theme=radical&locale=pt-br&include_all_commits=true&show=prs_merged,prs_merged_percentage" style="width: 75%;" />
+    <img alt="Enderson Marin GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ENDERSON-MARIN&show_icons=true&theme=radical&locale=pt-br&hide_title=true&include_all_commits=true&show=prs_merged,prs_merged_percentage" style="width: 50%;" />
   </div>
   <div style="flex: 1;">
-    <img alt="Enderson Marin GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENDERSON-MARIN&layout=compact&theme=radical" style="width: 75%;" />
+    <img alt="Enderson Marin GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENDERSON-MARIN&layout=compact&theme=radical&hide_title=true" style="width: 50%;" />
   </div>
-</div>
-
-<h2>💼 &nbsp;Meus Projetos Recentes:</h2>
-
-<div align='center' style="display: flex; justify-content: space-between; align-items: center;">
-
-   <div style="flex: 1;">
-    <p>&nbsp;<strong>Medellin.gov.co - Site</strong></p> 
-    <a align='center' href="https://www.medellin.gov.co/es/" target="_blank">
-      <img src="https://raw.githubusercontent.com/ENDERSON-MARIN/ENDERSON-MARIN/2ab7e81a378442094d6fad90e2d5f22b887915fc/medellin_participa-min.png" alt="Medellin Web Site"   width="75%" height="200px">  
-    </a>
-   </div>
-   <div style="flex: 1;">
-    <p>&nbsp;<strong>Meu Portfólio - Site</strong></p> 
-    <a align='center' href="https://portfolio-ecmm.vercel.app/" target="_blank">
-      <img src="https://raw.githubusercontent.com/ENDERSON-MARIN/ENDERSON-MARIN/2ab7e81a378442094d6fad90e2d5f22b887915fc/portfolio_enderson-min.png" alt="Portfolio Web Site"   width="75%" height="200px">
-    </a>
-   </div>
-   <div style="flex: 1;"> 
-      <p>&nbsp;<strong>Tu Spacio - Ecommerce</strong></p> 
-      <a align='center' href="https://tuspacio-enderson-marin.vercel.app/" target="_blank">
-         <img src="https://user-images.githubusercontent.com/46828206/193687174-fb9ade3a-d9b9-4634-b3e8-03bd903eeb5b.png" alt="Tu spacio Ecommerce"   width="75%" height="200px">
-      </a>
-   </div>
-</div>
-
-</br>
-
-<div align='center' style="display: flex; justify-content: space-between; align-items: center;">
-
-   <div style="flex: 1;">
-      <p>&nbsp;<strong>BarberApp - Agendamentos</strong></p> 
-      <a align='center' href="https://barbershop-app-ecmm.vercel.app/" target="_blank">
-         <img src="https://portfolio-ecmm.vercel.app/static/media/barber_app.6ea2b41d3f628f3decde.png" alt="BarberApp Web Site"   width="75%" height="200px">  
-      </a>
-   </div>
-   <div style="flex: 1;">
-      <p>&nbsp;<strong>TalishaNails.art - Site</strong></p> 
-      <a align='center' href="https://talishanails.art/" target="_blank">
-         <img src="https://user-images.githubusercontent.com/46828206/193739656-43d5a939-5b3e-4c08-a9a9-cfe795e4325e.png" alt="TalishaNails.art Web Site"   width="75%" height="200px">  
-      </a>
-   </div>
-   <div style="flex: 1;">
-    <p>&nbsp;<strong>SIGPEX - CRM</strong></p> 
-    <a align='center' href="https://www.hercascrm.co/sigpex/public/admin/login" target="_blank">
-      <img src="https://user-images.githubusercontent.com/46828206/193687615-6515267a-43b9-44b3-9a57-4845fa2e669d.png" alt="SIGPEX CRM"   width="75%" height="200px">
-    </a>
-    </br>
-   </div>
 </div>
 
 ---
