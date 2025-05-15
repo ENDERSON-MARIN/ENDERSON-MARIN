@@ -76,10 +76,10 @@ Sou formado como Tecnólogo Universitário em Informática com mais de 10 anos d
 
 <div align='center' style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1;">
-    <img alt="Enderson Marin GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ENDERSON-MARIN&show_icons=true&theme=aura&ring_color=24f804&hide_title=true&locale=pt-br&include_all_commits=true&show=prs_merged,prs_merged_percentage"/>
+    <img alt="Enderson Marin GitHub Stats" width="50%"  src="https://github-readme-stats.vercel.app/api?username=ENDERSON-MARIN&show_icons=true&theme=aura&ring_color=24f804&hide_title=true&locale=pt-br&include_all_commits=true&show=prs_merged,prs_merged_percentage"/>
   </div>
   <div style="flex: 1;">
-    <img alt="Enderson Marin GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENDERSON-MARIN&layout=donut&theme=aura&locale=pt-br"/>
+    <img alt="Enderson Marin GitHub Stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENDERSON-MARIN&layout=donut&theme=aura&locale=pt-br"/>
   </div>
 </div>
 
