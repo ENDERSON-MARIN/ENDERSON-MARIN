@@ -1,18 +1,34 @@
-<h1 align="center">👋 &nbsp;Olá, eu sou o Enderson. </br> Um Desenvolvedor Full Stack apaixonado pelo que faz!</h1>
+<h1 align="center">👋 &nbsp;Hey, I'm Enderson.</br>A Full Stack Developer passionate about what he does!</h1>
 <p align="center">
-   <a href="https://web.whatsapp.com/send?phone=5547999477229" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-075E54?style=flat-square&logo=WhatsApp&logoColor=white"/></a>
    <a href="mailto:marinenderson1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
    <a href="https://www.linkedin.com/in/enderson-marin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAACXBIWXMAAAsTAAALEwEAmpwYAAAFIUlEQVR4nO2dz28bRRTHh1TtBYkjB4S4ckb8E3ACAaUSokII6IHEqeM22Q1CVFygBW6UCxJqRd0ARUICVaKXxk7rxqmTJiG7jhPyg0pAm6jQ1k2i/LL9RW/GQFU5ya7j3Znuvo/0JMvr3Xjed+d9Z2bXWSEYhmEYhmEYhmEYhmEYxg/H3H3Cdg4Iy+kTtjslbHdZ2C4iFsuybdTGnolXZZuNwHJeFrY7Z0CCEHLMil7nJX2J339uj7CdzwxIBLSG5X4qjqEtfAE4+bhPhBM6yo7+s882KHqLL4ZouO6s9gbbhoXlzodjzDTa0d1Y29Qo7g9BAPcb/Q11zQzLSYcggPOr9obaxsZU8AJYzpIBDYWRQbkJnKa+2ARE9yjEkRGII8MQqYJ63T2qtulOXCvDOAF6xiFSVyE6cxAdGYj2iyrodWdObaPP6E5cJAWgxHYN4ZGOfrx5ZhL5+TKW1ytYWa+gcL2Mt9MluY0+ExkRjBGASkvqqkxwunATW5Eu3FQiUE+IQjkyRgCq7505eebvxMHTRVWOusf0JzAyApDJdmQw9Ft5RwEuzdyB6MiqfXQnMDoCDEuzpXq/E/dWK8qYaR/dCYyaAGS6LIDGEjQ4f3dHAXJzd9WwlEuQHhN+/T8THtVfQqI4DD1bWNgy+afyN3gYGogAsheMyUlWW0dGTrpo8kWmvLRWkWXn4OkiT8QC6wH3iyCXIi4/sBSR5aWIptjtYpxciBv+fzHOdvTX7Uh6ACW6mbBbtL8UfQzi6LUHVmHr4tP7tL3Vyx9GCfDuRX+RKux+f0ooJZfK3uEcRCIL0d6vyh59hl5TKaT3aTstBJIorVoMNE0Ar4gtBPC9v/SbS3gsNYB3zpbw7cgCphZWcHtlE9VaDYv31lG8sYzvRxdxqK+EJ9+jZfIsRDKvesZue0SsBegawp5EBkd/mEF5ddPTfhuVGr7M/Ymn3r8ihZN/t+cXFkA0IcCjXVlcmPwbzUCCPf/FuOoNu1kaj2sPaGvvx8/Fv7AbKtUa3vh6EiIxUF8YbGKEFlcBen+cRStY26zimY8LEIevKDNnAeC5lrcKMu29nU1epYtrD2g1r51y1TDV7wIhC9Aaxv9YUnMGvxeJWADI5H104ToS56bxwfl5/DRxC6sbVd8iPP1hXk3U/JShOAuwtllV1xbozKXFPyoh8n6krBzn+x2ivpUuqWP4mSXHVYBaDTjwlauGkGSeVLspcbTeQzPcZF4a63nH+1CVrlXI4/kZDcVVgO+uLdYvaw43LhkkRDKPx63LnmfJdEeHnJixADvz7PECRHJw+3JBiUwM4PPs7x6OCEwvrtSN2MftMnHtAfs6M6r0bDd7pTWe5CCeOznu6Zi3ljb83y4TRwFqtQb7NwxHjmqe6M15Ou5mtebxuCwAPCcqVZC9pbXCxlwAwo8Are9ZLABYAO4B4BKU4hLEHhA4bMJgE24AmzCbMNiEU2zCbMKBwyYMNuEGsAmzCYNNOMUmzCYcOGzCYBNuAJtwBE2YeOgvyIT+EyU74O/1UAmg80d6dkDfS7sA/E/7sGXyLacchgDTns+GuIXllsIQoM+IxtpGxpngBaCHF+hvKIyMXveV4AU4NLJXWM6M9sbaxsVceE/VoCdH6G8wjAqr+IIIFXpyhO5G26aEc1yEDj22w3Y/0d94V/OZ757Q8wiTf6EnR8TREyxnJvyys50x08ML6P/n01g4ipM1y1mqty0tRzvUZoZhGIZhGIZhGIZhGIYR3vkHXi1Jisqz6ZMAAAAASUVORK5CYII=&logoColor=white"/></a>
    <a href="https://portfolio-ecmm.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-764abe?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAACXBIWXMAAAsTAAALEwEAmpwYAAAE3UlEQVR4nO2b7W9TZRjGz2nPmdH4QT+bmJAg8EFj4jdj9A9QDH+LJCbGnrXSvdiXbY0zvoAfHJmIhBjET6IRDAmDEWFC1uO6saV7A2a7dRQom3S9zHNKZ1Not/Wc9ukp15VcybJla5/rd9/3c85ZH0WhKIqiKIqiKIqiKIqiKEkaDygdpqGH44Z+0zR0OOG4T1uM+/SQ+NsEu4XiPj3kVPCPg9BDBLAVAMO5yn/MPv0WAWwhs1HhPzIBEEBry2QH1Faq23sgG1avrkXVtY0BBYg93d4YUCCyyEbUK6lPve83rDKXAsrz2ZB6rcDQUQ2GyCYbVv9aDCjPOR5+LqIuy642uMS5iJp2FIKofNmLgsucDaljjs18jh1lxwAKMQUrIe97TlT/mOxqgkudDat/2gYgdnjZC4FLvd6nPrANYGNAKcheCFzq/IBSsA1A9iLgchNAjACkVyHYAfKDAEeQ/DAgwdwDYgTgbFUd3QdcCgBzvwIZs2jx9UU/MLRXesW3bwcMdgCXu4HsDHA3+WRnp4HRIDCoy3+/bQVgsANIHK8efKUT37cMhPYAcLln++GXPHpI/vtuCwBH99UeO7XG0dAeArAN4FJg5+GXPNJJALYBzP9WP4C5MwRgG0AmXj+AlTgB2AawYgfAOAFwBLn9Kuii38YmbLADbAMY2lu8pKznMvTbVwjAkS4YDe4cgLh8ld29bXEjFhOPInQgcWz74U98B3ymtQeAlvlM0KBefLxQaxyJn4nKb5HwRXa2AaxFVekLQbnF4wVxhytussQ9grD4Wmy4LTDzy73Wp9oHcLvHK30hcKlvdXvtA/jb0JEJeaQvBi7zSsgDs9OBEzmlAxMzn2hI9XqQDXms1iq0wCLRIhZZiExENiIjkZVjR6JqnViZ9GuYPaThZpcX6V4P7oZV/NuvAq2yccecdb5fQS6qWhNhqceLhS4vpgOaVekNO5NWz5EhMbam/Brmgl7rjYo3fC+i4mG/nQBUYPg14PxBYPIHYOHs//8Tnv+9+L3zHwDDr9oO+UFUxZ2QxyqqxS6vVdETnZIOBTp9ZivhL44zUT2pXo+1ULHg6sedVOD0fmDh3PbvAwScn94t/m6VkSE6VRTFcq/H6mDRyaJoWu5UZqMPzZkVcJLlI+3LXShMn677WVBh+hTuf/Xy5sgQHWmFXGc1tz0As8zJr9/Ew6Ur9T+Ie+T8P2OY/eYdKWtwLYDkkbdRWL1hO/zNTlidQvLwWwSwnfCnoruQX7rqWPjlnXCjbzc7oCaAzg7kJn92PPySc4lT1mtwBFUBsHDsQMPCL3l+eD8BVKv+9dk/Gg5gPXmWAJ4EYOaLNxoefskzn7/Oq6BKAKkzHzYNQOqXgwRQCeB+/ETTANwbP04AlQDW5xo//zf3gdlzBFAJYMPOB7B2aPFavBOuAIAmhV8yAVQAyKeuNS188VoEUAEgM9LfNACZC1ECqAQwEXwRmZE+5NPXG1f56evIXIhgIvgCATwtVtz4ONpsIxOAQQDSq9BkB8gPwuQIkh+GKcHcAwwCkF6Fpps7IO7T78hehOlSxw191QEA2o+yF2K61T7tpP094KOOPXFDT0tfjOEy+/Tl8cAzuxUnlPj42ZdMn3aC40jfMngrI5920rHwKYqiKIqiKIqiKIqiKIqilHbQfx9SfEPkGQAIAAAAAElFTkSuQmCC&logoColor=white"/></a>
-   <a href="https://instagram.com/marinenderson" target="_blank"><img src="https://img.shields.io/badge/-Instagram_-E1306C?style=flat-square&logo=Instagram&logoColor=white"/></a>
-   <a href="https://www.youtube.com/channel/UCDIIj706aFneZlfVJucVkhA" target="_blank"><img src="https://img.shields.io/badge/-Youtube_-FF0000?style=flat-square&logo=Youtube&logoColor=white"/></a>
     
 </p>
-<h3>👨‍💻 &nbsp;Sobre mim:</h3>
+<h2>👨‍💻 &nbsp;About me:</h2>
 
 <p align="justify">
-Sou formado como Tecnólogo Universitário em Informática com mais de 10 anos de experiência nas áreas de TI (Infra, Suporte e Desenvolvimento de Software). Tenho mais de 6 anos desenvolvendo sistemas e sites de forma independente, e em empresas onde trabalhei com equipes em diversos projetos como sites informativos, e-commerce, sistemas de gestão, pontos de venda, faturação e inventário. Sou apaixonado por programação, esportes e compartilhar com minha família. Estou ansioso para incorporar novos conhecimentos e enfrentar novos desafios. Resolução de problemas, trabalho em equipe, crescendo pessoal e profissionalmente através da realização das metas e objetivos propostos.
+I am a full-stack developer with over 10 years of experience in IT, with a special focus on the last 5 years in software development. I hold a degree as a University Computer Technician and am currently completing my degree in Systems Engineering.
+
+I'm a proactive and self-taught professional, passionate about solving challenges creatively and building impactful solutions. I believe that programming is a journey of continuous learning, and I am always on the lookout for new technologies and best practices to improve my skills.
 </p>
+
+<h2>📚 &nbsp;Lifelong Learning & The Future of AI:</h2>
+<p align="justify">
+The constant evolution of technology, especially the rise of artificial intelligence, deeply motivates me. I am currently deepening my knowledge of AI to build high-performance projects and understand the transformative impact it will have on the future of programming.
+
+I am documenting my journey and sharing my progress, insights, and new project developments on LinkedIn and other social media platforms. I believe that teaching and sharing knowledge is one of the best ways to learn and grow as a developer.
+
+<h2>🔍 What You'll Find Here</h2>
+This GitHub profile is a reflection of my journey and dedication to high-quality software development. Here, you will find:
+
+ - Personal and client projects: Examples of web applications I have built, with a focus on real-world solutions for e-commerce, scheduling, and management systems.
+
+ - Clean and well-structured code: My projects reflect my commitment to code quality, using principles like SOLID and Clean Code.
+
+ - Modern technologies: Explore my work with Next.js, React, PostgreSQL, Prisma, Drizzle-ORM, and more.
+
+If you’d like to connect, collaborate, or have any questions, feel free to <a href="mailto:marinenderson1@gmail.com">click here and send me an email</a> — or reach out on [https://www.linkedin.com/in/enderson-marin](https://www.linkedin.com/in/enderson-marin/)">LinkedIn</a>. I'm always open to good conversations and interesting opportunities.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
@@ -78,9 +94,6 @@ Sou formado como Tecnólogo Universitário em Informática com mais de 10 anos d
 <div align='center' style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1;">
     <img alt="Enderson Marin GitHub Stats" width="75%"  src="https://github-readme-stats.vercel.app/api?username=ENDERSON-MARIN&show_icons=true&theme=aura&ring_color=24f804&hide_title=true&locale=pt-br&include_all_commits=true&show=prs_merged,prs_merged_percentage"/>
-  </div>
-  <div style="flex: 1;">
-    <img alt="Enderson Marin GitHub Stats" width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENDERSON-MARIN&layout=donut&theme=aura&locale=pt-br"/>
   </div>
 </div>
 
