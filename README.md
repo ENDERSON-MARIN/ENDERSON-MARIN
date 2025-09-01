@@ -8,18 +8,28 @@
 <h2>👨‍💻 &nbsp;About me:</h2>
 
 <p align="justify">
-I am a full-stack developer with over 10 years of experience in IT, with a special focus on the last 5 years in software development. I hold a degree as a University Computer Technician and am currently completing my degree in Systems Engineering.
-
-I'm a proactive and self-taught professional, passionate about solving challenges creatively and building impactful solutions. I believe that programming is a journey of continuous learning, and I am always on the lookout for new technologies and best practices to improve my skills.
+<strong>
+   I am a full-stack developer with over 10 years of experience in IT, with a special focus on the last 5 years in software development. I hold a degree as a University Computer Technician and am currently completing my degree in Systems Engineering.
+   
+   I'm a proactive and self-taught professional, passionate about solving challenges creatively and building impactful solutions. I believe that programming is a journey of continuous learning, and I am always on the lookout for new technologies and best practices to improve my skills.
+</strong>
 </p>
 
-<h2>📚 &nbsp;Lifelong Learning & The Future of AI:</h2>
-<p align="justify">
-The constant evolution of technology, especially the rise of artificial intelligence, deeply motivates me. I am currently deepening my knowledge of AI to build high-performance projects and understand the transformative impact it will have on the future of programming.
 
-I am documenting my journey and sharing my progress, insights, and new project developments on LinkedIn and other social media platforms. I believe that teaching and sharing knowledge is one of the best ways to learn and grow as a developer.
+<h2>📚 &nbsp;Lifelong Learning & The Future of AI:</h2>
+
+<p align="justify">
+<strong>
+   The constant evolution of technology, especially the rise of artificial intelligence, deeply motivates me. I am currently deepening my knowledge of AI to build high-performance projects and understand the transformative impact it will have on the future of programming.
+   
+   I am documenting my journey and sharing my progress, insights, and new project developments on LinkedIn and other social media platforms. I believe that teaching and sharing knowledge is one of the best ways to learn and grow as a developer.
+</strong>
+</p>
 
 <h2>🔍 What You'll Find Here</h2>
+
+<p align="justify">
+<strong>
 This GitHub profile is a reflection of my journey and dedication to high-quality software development. Here, you will find:
 
  - Personal and client projects: Examples of web applications I have built, with a focus on real-world solutions for e-commerce, scheduling, and management systems.
@@ -29,6 +39,8 @@ This GitHub profile is a reflection of my journey and dedication to high-quality
  - Modern technologies: Explore my work with Next.js, React, PostgreSQL, Prisma, Drizzle-ORM, and more.
 
 If you’d like to connect, collaborate, or have any questions, feel free to <a href="mailto:marinenderson1@gmail.com">click here and send me an email</a> — or reach out on [https://www.linkedin.com/in/enderson-marin](https://www.linkedin.com/in/enderson-marin/)">LinkedIn</a>. I'm always open to good conversations and interesting opportunities.
+</strong>
+</p>
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
