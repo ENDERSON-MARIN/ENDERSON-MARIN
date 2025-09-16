@@ -9,11 +9,14 @@
 
 <p align="justify">
 <strong>
-   Sou um desenvolvedor full-stack com mais de 10 anos de experiência em TI, com foco especial nos últimos 5 anos em desenvolvimento de software. Sou formado como Técnico em Computação e estou atualmente concluindo minha graduação em Engenharia de Sistemas.
-
-Sou um profissional proativo e autodidata, apaixonado por resolver desafios de forma criativa e por construir soluções de impacto. Acredito que a programação é uma jornada de aprendizado contínuo, e estou sempre em busca de novas tecnologias e melhores práticas para aprimorar minhas habilidades
+   Sou um desenvolvedor full-stack com mais de 10 anos de experiência em TI, com foco especial nos últimos 3 anos em desenvolvimento web. Sou formado como Técnico em Computação, um profissional proativo e autodidata, apaixonado por resolver desafios de forma criativa e por construir soluções de impacto. Acredito que a programação é uma jornada de aprendizado contínuo, e estou sempre em busca de novas tecnologias e melhores práticas para aprimorar minhas habilidades. 
 </strong>
+</p>
 
+<p align="justify">
+<strong>
+   Busco ativamente uma oportunidade para me juntar a uma equipe de desenvolvimento no Brasil, minha prioridade é construir projetos com foco em performance e boas práticas de desenvolvimento, sempre em um ambiente de trabalho colaborativo, onde a troca de conhecimento é valorizada.
+</strong>
 </p>
 
 <h2>📚 &nbsp;Aprendizado Contínuo & O Futuro da IA:</h2>
@@ -21,7 +24,11 @@ Sou um profissional proativo e autodidata, apaixonado por resolver desafios de f
 <p align="justify">
 <strong>
    A constante evolução da tecnologia, especialmente o aumento da inteligência artificial, me motiva profundamente. Atualmente, estou aprofundando meus conhecimentos em IA para construir projetos de alto desempenho e entender o impacto transformador que essa tecnologia terá no futuro da programação.
-   
+</strong>
+</p>
+
+<p align="justify">
+<strong>
    Estou documentando minha jornada e compartilhando meus progressos, insights e desenvolvimentos de projetos novos no LinkedIn e outras plataformas de mídia social. Acredito que ensinar e compartilhar conhecimento é uma das melhores formas de aprender e crescer como desenvolvedor.
 </strong>
 </p>
@@ -42,7 +49,7 @@ Este perfil do GitHub é uma reflexão da minha jornada e dedicação ao desenvo
 
 - Comunidade: Engajado em comunidades de desenvolvedores, trocando experiências, aprendizados e insights.
 
-Se você deseja se conectar, colaborar ou tiver alguma dúvida, sinta-se à vontade para <a href="mailto:marinenderson1@gmail.com">clicar aqui e enviar um e-mail</a> — ou saiba mais sobre mim no <a href="https://www.linkedin.com/in/enderson-marin">LinkedIn</a>. Estou sempre aberto a boas conversas e oportunidades interessantes.
+Se você deseja se conectar, colaborar ou tiver alguma dúvida, sinta-se à vontade para <a href="mailto:marinenderson1@gmail.com">clicar aqui e enviar um e-mail</a> — ou saiba mais sobre mim no <a href="https://www.linkedin.com/in/enderson-millan">LinkedIn</a>. Estou sempre aberto a boas conversas e oportunidades interessantes.
 </strong>
 
 </p>
