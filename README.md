@@ -70,6 +70,6 @@ Engenheiro de Software Full-Stack com **+10 anos de experiência acumulada em TI
 ### 📊 Estatísticas no GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ENDERSON-MARIN&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENDERSON-MARIN&layout=compact&theme=dark&hide=html,css" alt="Linguagens Mais Utilizadas" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=enderson-marin&theme=radical&show_icons=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=enderson-marin&theme=radical&layout=compact&hide=html,css" alt="Linguagens Mais Utilizadas" />
 </p>
