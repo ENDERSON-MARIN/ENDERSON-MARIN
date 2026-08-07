@@ -1,5 +1,7 @@
 <p align="center">
-  <b>🇧🇷 Português</b> | <a href="README-english.md">🇺🇸 English</a>
+  <b><img src="https://flagcdn.com/20x15/br.png" alt="Brasil" height="13"> Português</b> | 
+  <a href="README-english.md"><img src="https://flagcdn.com/20x15/us.png" alt="USA" height="13"> English</a> | 
+  <a href="README-spanish.md"><img src="https://flagcdn.com/20x15/es.png" alt="Espanha" height="13"> Español</a>
 </p>
 
 <h1 align="center">Enderson Millan</h1>
