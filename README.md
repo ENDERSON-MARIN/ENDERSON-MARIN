@@ -1,3 +1,7 @@
+<p align="center">
+  <b>🇧🇷 Português</b> | <a href="README-english.md">🇺🇸 English</a>
+</p>
+
 <h1 align="center">Enderson Millan</h1>
 <h3 align="center">Software Engineer / Full Stack Developer (TypeScript, Node.js, NestJS, React & Next.js)</h3>
 
